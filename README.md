@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **xrysw_jj@hotmail.com**
 
-- ⚡ Fun fact **Fun fact: I like Rubik's cubes, cat and playing the violin**
+- ⚡ Fun fact **Fun fact: I like Rubik's cubes, cats and playing the violin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
