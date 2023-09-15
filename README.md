@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia Xrysw Hernandez</h1>
-<h3 align="center">Data Scientist | Finance Advisor | Process Engineer</h3>
+<h3 align="center">Data Scientist | Financial Advisor | Process Engineer</h3>
 
 ## Description
 
