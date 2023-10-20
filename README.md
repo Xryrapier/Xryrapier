@@ -6,13 +6,10 @@
 Welcome! I'm a data scientist with a background in Pharmaceutical Chemistry and Finance.
 
 - 🔭 Currently working on [Robo Advisor](https://roboadvisor.streamlit.app/).
-
 - 💬 Ask me about anything related to finance, process optimization, or creating a great work environment.
-
 - 📫 Reach me at [xrysw_jj@hotmail.com](mailto:xrysw_jj@hotmail.com).
 
 ## Skils
-
 - Web Scraping
 - Data wrangling and cleaning
 - Exploratory data analysis
@@ -21,7 +18,6 @@ Welcome! I'm a data scientist with a background in Pharmaceutical Chemistry and 
 - Data visualization
 
 ## Connect with me
-
 <a href="https://www.linkedin.com/in/ilia-xrysw-hernandez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
