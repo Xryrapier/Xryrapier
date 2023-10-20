@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="Diseño sin título.png">
 
-Welcome! I'm a data scientist with a background in Pharmaceutical Chemistry and Finance.
+Welcome! I'm a data scientist 👨‍💻 with a background in Pharmaceutical Chemistry 🔬 and Finance 📈
 
 - 🔭 Currently working on [Robo Advisor](https://roboadvisor.streamlit.app/).
 - 💬 Ask me about anything related to finance, process optimization, or creating a great work environment.
