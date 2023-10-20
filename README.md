@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="Diseño sin título.png">
 
-Welcome to my GitHub profile! I'm a data scientist with a background in Pharmaceutical Chemistry and Finance. I'm passionate about leveraging data to make informed decisions and solve complex problems.
+Welcome! I'm a data scientist with a background in Pharmaceutical Chemistry and Finance.
 
-- 🔭 I’m currently working on [Robo Advisor](https://roboadvisor.streamlit.app/).
+- 🔭 Currently working on [Robo Advisor](https://roboadvisor.streamlit.app/).
 
 - 💬 Ask me about anything related to finance, process optimization, or creating a great work environment.
 
