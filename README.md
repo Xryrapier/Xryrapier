@@ -17,6 +17,15 @@ Welcome to my GitHub profile! I'm a data scientist with a background in Pharmace
 
 - ⚡ Fun fact: I enjoy solving Rubik's cubes, spending time with cats, and playing the violin.
 
+## Skils
+
+- Web Scraping
+- Data wrangling and cleaning
+- Exploratory data analysis
+- Statistical analysis and modeling
+- Machine learning
+- Data visualization
+
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/ilia-xrysw-hernandez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
