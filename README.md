@@ -6,7 +6,7 @@
 Welcome! I'm a data scientist 👨‍💻 with a background in Pharmaceutical Chemistry 🔬 and Finance 📈
 
 - 🔭 Currently working on [Robo Advisor](https://roboadvisor.streamlit.app/).
-- 💬 Ask me about anything related to finance, process optimization, or creating a great work environment.
+- 💬 Ask me about anything related to finance, process optimization, or creating a great work environments.
 - 📫 Reach me at [xrysw_jj@hotmail.com](mailto:xrysw_jj@hotmail.com).
 
 ## Connect with me
