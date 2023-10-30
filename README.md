@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilia Xrysw Hernandez</h1>
 <h3 align="center">Data Scientist | Financial Advisor | Process Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="Diseño sin título.png">
+<img align="right" alt="Coding" width="400" src="avatar.png">
 
 Welcome! I'm a data scientist 👨‍💻 with a background in Pharmaceutical Chemistry 🔬 and Finance 📈
 
